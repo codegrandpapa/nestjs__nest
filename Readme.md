@@ -36,7 +36,6 @@ Nest is a framework for building efficient, scalable <a href="https://nodejs.org
 
 - To check out the [guide](https://docs.nestjs.com), visit [docs.nestjs.com](https://docs.nestjs.com). :books:
 - 要查看中文 [指南](readme_zh.md), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
-- [가이드](readme_kr.md) 문서는 [docs.nestjs.com](https://docs.nestjs.com)에서 확인하실 수 있습니다. :books:
 - [ガイド](readme_jp.md)は [docs.nestjs.com](https://docs.nestjs.com)でご確認ください。 :books:
 
 ## Questions
@@ -122,7 +121,6 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://x.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
 - X - [@nestframework](https://x.com/nestframework)
 
